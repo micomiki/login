@@ -25,6 +25,7 @@
             // Redirect to user dashboard page
             echo "<div class='form'>
                   <h3>Challenge Done !!</h3><br/>
+                  <img src='https://staticweb010.blob.core.windows.net/images/Ronaldo is a player at the height of his career.jfif'>
                   <p class='link'>Click here to <a href='login.php'>Login</a> again.</p>
                   </div>";
         } else {
